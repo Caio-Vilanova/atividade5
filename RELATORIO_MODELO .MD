@@ -1,9 +1,9 @@
 ##Relatório da Atividade: Avaliação de Similaridade de Perguntas com MPI
 Disciplina: Programação Paralela e Concorrente
 
-*Aluno(s): Álex de Almeida Santana
+*Aluno(s): Caio Vinícius da Silva Vilanova
 
-*Turma: Sistemas de informação Noturno 4/5 semestre
+*Turma: Analise e Desenvolvimento de Sistemas Noturno 4 semestre
 
 *Professor: [Rafael]
 
